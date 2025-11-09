@@ -11,7 +11,6 @@ This is a Streamlit web app that predicts whether an online shopper is likely to
 
 ## Table of Contents
 - [Prerequisites](#prerequisites)  
-- [Installation](#installation)  
 
 ---
 
@@ -23,7 +22,3 @@ This is a Streamlit web app that predicts whether an online shopper is likely to
 
 ---
 
-## Installation
-1. Clone the repo:
-```bash
-git clone https://github.com/<your-username>/Customer-Purchase-Predictor.git
