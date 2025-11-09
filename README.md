@@ -12,10 +12,6 @@ This is a Streamlit web app that predicts whether an online shopper is likely to
 ## Table of Contents
 - [Prerequisites](#prerequisites)  
 - [Installation](#installation)  
-- [Usage](#usage)  
-- [Folder Structure](#folder-structure)  
-- [Deployment](#deployment)  
-- [Author](#author)  
 
 ---
 
@@ -26,3 +22,8 @@ This is a Streamlit web app that predicts whether an online shopper is likely to
 - Libraries: pandas, numpy, scikit-learn, joblib  
 
 ---
+
+## Installation
+1. Clone the repo:
+```bash
+git clone https://github.com/<your-username>/Customer-Purchase-Predictor.git
